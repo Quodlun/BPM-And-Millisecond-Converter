@@ -3,7 +3,7 @@ using namespace std;
 
 int Mode()
 {
-    printf("Mode select:\n");
+    printf("Mode select: \n");
     printf("1: BPM to milliseconds.\n");
     printf("2: Exit.\n");
     printf("Please select the mode: ");
